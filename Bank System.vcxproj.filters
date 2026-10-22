@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bank System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\Clients.txt" />
+    <Text Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\Currencies.txt" />
+    <Text Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\LoginRegister.txt" />
+    <Text Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\TransferLog.txt" />
+    <Text Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\Users.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\cls_Until.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsAddNewClientScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsAddNewUserScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\ClsBankClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsClientListScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsCurrenciesListScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsCurrencyCalculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsCurrencyExchangeScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsDeleteClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsDeleteUserScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsDepositScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsFindClientScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsFindCurrencyScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsFindUserScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsInputValidate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsInputValidate_PRO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsLoginRegisterScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsLoginScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsManageUsers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsPerson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsTotalBalancesScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsTransactionsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsTransferLogScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsTransferScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsUpdateClientScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsUpdateRateScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsUpdateUserScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsUser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsUserListScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\clsWhithdraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\ملفات\MAP whit Abu-Hadhuod\C++ 11\مشروع الكورس OOP المصرف\Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
